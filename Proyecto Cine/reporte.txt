@@ -1,0 +1,65 @@
+Boletos Vendidos: 6
+Total Sala1: 300
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 300.000000
+
+Boletos Vendidos: 6
+Total Sala1: 300
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 300.00
+
+Boletos Vendidos: 0
+Total Sala1: 0
+Boletos Vendidos: 5
+Total Sala 2: 275
+Total General: 275.00
+
+Boletos Vendidos: 0
+Total Sala1: 0
+Boletos Vendidos: 3
+Total Sala 2: 165
+Total General: 165.00
+
+Boletos Vendidos: 6
+Total Sala1: 300
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 300.00
+
+Boletos Vendidos: 5
+Total Sala1: 250
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 250.00
+Boletos Vendidos: 5
+Total Sala1: 250
+Boletos Vendidos: 9
+Total Sala 2: 2420
+Total General: 2670.00
+Boletos Vendidos: 13
+Total Sala1: 800
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 800.00
+Boletos Vendidos: 7
+Total Sala1: 350
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 350.00
+Boletos Vendidos: 0
+Total Sala1: 0
+Boletos Vendidos: 4
+Total Sala 2: 0
+Total General: 0.00
+Boletos Vendidos: 0
+Total Sala1: 0
+Boletos Vendidos: 4
+Total Sala 2: 0
+Total General: 0.00
+Boletos Vendidos: 0
+Total Sala1: 0
+Boletos Vendidos: 0
+Total Sala 2: 0
+Total General: 0.00
